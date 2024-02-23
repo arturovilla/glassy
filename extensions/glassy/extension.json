@@ -1,0 +1,9 @@
+{
+  "name": "Glassy Theme",
+  "version": "0.0.1",
+  "authors": [
+    "Arturo Villalobos <arturovillalobos.dev>"
+  ],
+  "description": "Glassy is a transparent theme for those who like to see whats below the surface.",
+  "repository": "https://github.com/arturovilla/glassy"
+}
